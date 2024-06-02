@@ -1,0 +1,7 @@
+{
+  "name": "modernapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
