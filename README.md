@@ -11,6 +11,16 @@ This project demonstrates how to use Angular 17 features with the latest version
 - Inline Overlays
 - ESBuild
 
+## Getting started for developers
+
+### Install and update the frameworks
+
+- [Install NodeJS](https://nodejs.org/). Hint: eventually install and use [nvm](https://medium.com/@Joachim8675309/installing-node-js-with-nvm-4dc469c977d9) for easy installing and/or switching between node versions
+- [Angular CLI](https://www.npmjs.com/package/@angular/cli): `npm i -g @angular/cli`
+- [Ionic CLI](https://www.npmjs.com/package/@ionic/cli): `npm i -g @ionic/cli`
+- [Capacitor CLI](https://www.npmjs.com/package/@capacitor/cli): `npm i -g @capacitor/cli`
+
+
 ### Run the app
 
 This app uses [The Movie Database](https://www.themoviedb.org/) API to load data.
